@@ -2,7 +2,7 @@ import React, { useState, useEffect, useCallback } from "react";
 
 import MoviesList from "./components/MoviesList";
 import "./App.css";
-
+// hi
 function App() {
   const [movies, setMovies] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
